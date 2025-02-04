@@ -72,3 +72,6 @@ Data hasil scraping akan tersimpan di folder `output` dalam format:
 - pandas
 - openpyxl
 - playwright
+
+##
+Proyek ini dilisensikan di bawah lisensi MIT - lihat file [lisensi] (lisensi) untuk detailnya
